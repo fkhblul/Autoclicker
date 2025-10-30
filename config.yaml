@@ -1,0 +1,16 @@
+click_interval:
+  hours: 0
+  minutes: 0
+  seconds: 0
+  milliseconds: 1
+click_repeat:
+  mode: 0
+  times: 10
+click_position:
+  mode: 1
+  x: -914
+  y: 849
+click_options:
+  mouse_button: Left
+  click_type: Double
+top_most: true
