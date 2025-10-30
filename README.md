@@ -20,7 +20,7 @@ Welcome to the Python AutoClicker, a simple yet powerful graphical user interfac
 
 Here's a glimpse of the AutoClicker in action:
 
-![AutoClicker UI Screenshot](screenshot.png)
+![AutoClicker UI Screenshot](assets/screenshot.png)
 
 ## 📦 Installation
 
@@ -28,10 +28,9 @@ To get this AutoClicker up and running on your system, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/python-autoclicker.git](https://github.com/YOUR_USERNAME/python-autoclicker.git)
+    git clone [https://github.com/fkhblul/Autoclicker.git](https://github.com/fkhblul/Autoclicker.git)
     cd python-autoclicker
     ```
-    (Replace `YOUR_USERNAME` with your actual GitHub username and `python-autoclicker` with your repository name if different.)
 
 2.  **Create a virtual environment (recommended):**
     ```bash
@@ -61,11 +60,6 @@ To get this AutoClicker up and running on your system, follow these steps:
     * Alternatively, use the global hotkeys `F6`, `F7`, or `F8` (even if the app is minimized).
 
 4.  **Save your settings** by clicking `Save Settings`. They will be loaded automatically on the next launch.
-
-## ⚠️ Important Notes
-
-* **Hotkey Permissions:** On some systems, especially Windows, global hotkeys might require the application to be run with administrator privileges to function correctly outside the focused window. If hotkeys don't work, try running your terminal/IDE as Administrator.
-* **Icon File:** The application uses `assets/pc-mouse.ico` for its window icon. Ensure this file is present and a valid `.ico` format for optimal display on Windows.
 
 ## 🤝 Contributing
 
