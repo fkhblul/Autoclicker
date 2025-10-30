@@ -28,7 +28,7 @@ To get this AutoClicker up and running on your system, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/fkhblul/Autoclicker.git](https://github.com/fkhblul/Autoclicker.git)
+    git clone https://github.com/fkhblul/Autoclicker.git
     cd python-autoclicker
     ```
 
